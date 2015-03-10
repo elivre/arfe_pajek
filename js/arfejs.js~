@@ -1,0 +1,20 @@
+UEs = ''
+
+function loadUE(ano,uf) {
+
+    $.ajax({
+        url: "net.gefx" ,
+        dataType: "txt",
+        success: function(data) {
+          UEs = $(data).val
+          return 
+        
+        }
+    }
+}
+
+loadUE('2012','PR');
+$(document).ready(function() {
+
+ $("#texto").html("<p><b>" + UEs + "</b></p>");
+}

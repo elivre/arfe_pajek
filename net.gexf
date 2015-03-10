@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2012-05-20">
+    <creator>Neilor F. Camargo</creator>
+    <description>"Eleições: 2012 - Cargo: PREFEITO - UE: ABADIA DE GOIAS" </description>
+  </meta>
+<graph defaultedgetype="undirected" timeformat="double" mode="static">
+<attributes class="node" mode="static">
+<attribute id="nome" title="Nome" type="string">
+  <default>""</default>
+</attribute>
+</attributes>
+<nodes>
+<node id="1" label="1">
+<viz:size value="4"></viz:size>
+<viz:position x="576.0" y="313.15"></viz:position>
+<viz:color r="255" g="0" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="IOLANY CAROLINA NUNES (PREFEITO PMDB ABADIA DE GOIAS/GO) - FEMININO"/>
+</attvalues>
+</node>
+<node id="2" label="2">
+<viz:size value="4"></viz:size>
+<viz:position x="162.94399999999996" y="-55.63269999999994"></viz:position>
+<viz:color r="0" g="0" b="255"></viz:color>
+<attvalues>
+<attvalue for="nome" value="ROMES GOMES E SILVA (PREFEITO PSDB ABADIA DE GOIAS/GO) - MASCULINO"/>
+</attvalues>
+</node>
+<node id="3" label="3">
+<viz:size value="4"></viz:size>
+<viz:position x="-348.032" y="49.05669999999998"></viz:position>
+<viz:color r="0" g="0" b="255"></viz:color>
+<attvalues>
+<attvalue for="nome" value="VALDECI SALVIANO MENDONCA (PREFEITO PSD ABADIA DE GOIAS/GO) - MASCULINO"/>
+</attvalues>
+</node>
+<node id="4" label="4">
+<viz:size value="4"></viz:size>
+<viz:position x="379.00800000000004" y="-2.38190000000003"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="ADEMIR FAUSTINO DUTRA (PF)"/>
+</attvalues>
+</node>
+<node id="5" label="5">
+<viz:size value="4"></viz:size>
+<viz:position x="-426.496" y="-100.868"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="ALEXANDRE MENDES MOREIRA (PF)"/>
+</attvalues>
+</node>
+<node id="6" label="6">
+<viz:size value="4"></viz:size>
+<viz:position x="-417.92" y="284.0851"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="ALIPIO DA SILVA LEAO (PF)"/>
+</attvalues>
+</node>
+<node id="7" label="7">
+<viz:size value="4"></viz:size>
+<viz:position x="-569.856" y="-4.2637999999999465"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="AMARILDO JOSE LOURENCO (PF)"/>
+</attvalues>
+</node>
+<node id="8" label="8">
+<viz:size value="4"></viz:size>
+<viz:position x="-201.98399999999998" y="230.83429999999998"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="ANALTON JOSE FERRAZ (PF)"/>
+</attvalues>
+</node>
+<node id="9" label="9">
+<viz:size value="4"></viz:size>
+<viz:position x="-206.59199999999998" y="69.40910000000002"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="ANTENOR ALVES DOS SANTOS (PF)"/>
+</attvalues>
+</node>
+<node id="10" label="10">
+<viz:size value="4"></viz:size>
+<viz:position x="-525.184" y="46.26869999999997"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="ANTONIO RIBEIRO DE CASTRO (PF)"/>
+</attvalues>
+</node>
+<node id="11" label="11">
+<viz:size value="4"></viz:size>
+<viz:position x="-504.06399999999996" y="113.25040000000001"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="APARECIDA M. GUIMARAES SILVA (PF)"/>
+</attvalues>
+</node>
+<node id="12" label="12">
+<viz:size value="4"></viz:size>
+<viz:position x="78.08000000000004" y="-294.0067"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="APARECIDA RIBEIRO DA SILVA (PF)"/>
+</attvalues>
+</node>
+<node id="13" label="13">
+<viz:size value="4"></viz:size>
+<viz:position x="369.53599999999994" y="47.523300000000006"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="AUGUSTO FERREIRA DE OLIVEIRA (PF)"/>
+</attvalues>
+</node>
+<node id="14" label="14">
+<viz:size value="4"></viz:size>
+<viz:position x="385.40800000000013" y="-58.6995"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="BENVENUTO FERNANDES SARDEIRO (PF)"/>
+</attvalues>
+</node>
+<node id="15" label="15">
+<viz:size value="4"></viz:size>
+<viz:position x="123.904" y="137.2969"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="BRAZ DE JESUS LUDOVICO DE ALMEIDA (PF)"/>
+</attvalues>
+</node>
+<node id="16" label="16">
+<viz:size value="4"></viz:size>
+<viz:position x="105.47199999999998" y="83.62789999999995"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="BRUNO LUDOVICO DE ALMEIDA (PF)"/>
+</attvalues>
+</node>
+<node id="17" label="17">
+<viz:size value="4"></viz:size>
+<viz:position x="-501.76" y="223.4461"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="CELIA CONSTANTINA DA COSTA (PF)"/>
+</attvalues>
+</node>
+<node id="18" label="18">
+<viz:size value="4"></viz:size>
+<viz:position x="284.288" y="-257.41420000000005"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="CINTHIA MARA DE ABREU GOMES (PF)"/>
+</attvalues>
+</node>
+<node id="19" label="19">
+<viz:size value="4"></viz:size>
+<viz:position x="-277.76000000000005" y="291.8218"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="CLEIDNA DOS REIS LIMA (PF)"/>
+</attvalues>
+</node>
+<node id="20" label="20">
+<viz:size value="4"></viz:size>
+<viz:position x="489.9839999999999" y="201.8391"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="COMITE FINANCEIRO MUNICIPAL UNICO (PJ16470443)"/>
+</attvalues>
+</node>
+<node id="21" label="21">
+<viz:size value="4"></viz:size>
+<viz:position x="-341.76" y="-140.7364"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="DALVA MARIA BENTO DE ALMEIDA (PF)"/>
+</attvalues>
+</node>
+<node id="22" label="22">
+<viz:size value="4"></viz:size>
+<viz:position x="104.832" y="-231.06759999999997"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="DAVID DENER ALVES GOMES (PF)"/>
+</attvalues>
+</node>
+<node id="23" label="23">
+<viz:size value="4"></viz:size>
+<viz:position x="-248.832" y="160.6464"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="DIEGO RODRIGUES OLIVEIRA E SILVA (PF)"/>
+</attvalues>
+</node>
+<node id="24" label="24">
+<viz:size value="4"></viz:size>
+<viz:position x="-296.448" y="-180.60479999999995"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="DIGICOR FOTOLITO DIGITAL LTDA - EPP (PJ02164625)"/>
+</attvalues>
+</node>
+<node id="25" label="25">
+<viz:size value="4"></viz:size>
+<viz:position x="-401.92" y="-155.0946"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="DIONISIO TEIXEIRA (PF)"/>
+</attvalues>
+</node>
+<node id="26" label="26">
+<viz:size value="4"></viz:size>
+<viz:position x="272.89599999999996" y="-192.80230000000006"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="DIVINA ETERNA GOMES FERREIRA (PF)"/>
+</attvalues>
+</node>
+<node id="27" label="27">
+<viz:size value="4"></viz:size>
+<viz:position x="-284.544" y="-17.785600000000045"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="DIVINO ALVES DOS SANTOS (PJ16233703)"/>
+</attvalues>
+</node>
+<node id="28" label="28">
+<viz:size value="4"></viz:size>
+<viz:position x="-380.288" y="177.1653"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="DIVINO JOSE DE MORAIS (PF)"/>
+</attvalues>
+</node>
+<node id="29" label="29">
+<viz:size value="4"></viz:size>
+<viz:position x="-531.456" y="183.9262"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="DUCIMAR MARIA DE PAULA (PF)"/>
+</attvalues>
+</node>
+<node id="30" label="30">
+<viz:size value="4"></viz:size>
+<viz:position x="-301.312" y="-90.97059999999999"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="EDEUVALDO FERNANDES LIMA FILHO (PF)"/>
+</attvalues>
+</node>
+<node id="31" label="31">
+<viz:size value="4"></viz:size>
+<viz:position x="212.60800000000006" y="-240.0589"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="EDINA TEODORO CAMPOS (PF)"/>
+</attvalues>
+</node>
+<node id="32" label="32">
+<viz:size value="4"></viz:size>
+<viz:position x="-538.3679999999999" y="-96.47690000000006"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="ELETROENGE ENGENHARIA E CONSTRUCOES LTDA (PJ02105351)"/>
+</attvalues>
+</node>
+<node id="33" label="33">
+<viz:size value="4"></viz:size>
+<viz:position x="-382.592" y="-204.024"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="ELHOMAR RIBEIRO DO NASCIMENTO (PF)"/>
+</attvalues>
+</node>
+<node id="34" label="34">
+<viz:size value="4"></viz:size>
+<viz:position x="-192.76800000000003" y="180.8594"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="ELIANE ALVES MOREIRA GARCIA (PF)"/>
+</attvalues>
+</node>
+<node id="35" label="35">
+<viz:size value="4"></viz:size>
+<viz:position x="345.2160000000001" y="95.1284"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="ELIAS MIGUEL GONCALVES BERNARDES (PF)"/>
+</attvalues>
+</node>
+<node id="36" label="36">
+<viz:size value="4"></viz:size>
+<viz:position x="152.31999999999994" y="-271.84209999999996"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="ESLANY DIAS CASTRO (PF)"/>
+</attvalues>
+</node>
+<node id="37" label="37">
+<viz:size value="4"></viz:size>
+<viz:position x="317.568" y="135.97259999999997"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="FABIANO FELIPPE DE SOUZA (PF)"/>
+</attvalues>
+</node>
+<node id="38" label="38">
+<viz:size value="4"></viz:size>
+<viz:position x="240.12799999999993" y="-289.1277"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="FAGNER ALVES DE SOUSA (PF)"/>
+</attvalues>
+</node>
+<node id="39" label="39">
+<viz:size value="4"></viz:size>
+<viz:position x="-317.824" y="148.23979999999997"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="FRANCISCO JOSE DOS REIS LIMA (PF)"/>
+</attvalues>
+</node>
+<node id="40" label="40">
+<viz:size value="4"></viz:size>
+<viz:position x="-429.952" y="225.6765"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="GABRIEL MENDES MOREIRA (PF)"/>
+</attvalues>
+</node>
+<node id="41" label="41">
+<viz:size value="4"></viz:size>
+<viz:position x="324.4799999999999" y="-217.75490000000002"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="GELSON FAGUNDES DOS SANTOS (PF)"/>
+</attvalues>
+</node>
+<node id="42" label="42">
+<viz:size value="4"></viz:size>
+<viz:position x="-250.62399999999997" y="227.2099"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="GERALDO MILTON SOARES (PF)"/>
+</attvalues>
+</node>
+<node id="43" label="43">
+<viz:size value="4"></viz:size>
+<viz:position x="-432.384" y="-22.664600000000007"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="GRAFICA E EDITORA MODELO LTDA - ME (PJ13623066)"/>
+</attvalues>
+</node>
+<node id="44" label="44">
+<viz:size value="4"></viz:size>
+<viz:position x="-337.408" y="-199.9814"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="GRAFICA MEGA PIXEL COMUNICACAO VISUAL LTDA - ME (PJ07879413)"/>
+</attvalues>
+</node>
+<node id="45" label="45">
+<viz:size value="4"></viz:size>
+<viz:position x="376.32000000000005" y="-114.11100000000005"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="HELIO MENDES DE LIMA (PF)"/>
+</attvalues>
+</node>
+<node id="46" label="46">
+<viz:size value="4"></viz:size>
+<viz:position x="-465.536" y="258.7143"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="HIPOLITO ALVES DOS SANTOS (PF)"/>
+</attvalues>
+</node>
+<node id="47" label="47">
+<viz:size value="4"></viz:size>
+<viz:position x="262.27199999999993" y="112.41399999999999"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="HOFFIMAN FELIPE FREIRE PINTO (PF)"/>
+</attvalues>
+</node>
+<node id="48" label="48">
+<viz:size value="4"></viz:size>
+<viz:position x="-434.304" y="-191.6871"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="IRON AMANCIO DA LUZ (PF)"/>
+</attvalues>
+</node>
+<node id="49" label="49">
+<viz:size value="4"></viz:size>
+<viz:position x="403.8399999999999" y="313.15"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="IVONE BATISTA CARDOSO (PF)"/>
+</attvalues>
+</node>
+<node id="50" label="50">
+<viz:size value="4"></viz:size>
+<viz:position x="-509.696" y="-20.782700000000034"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="JAILSON ARAUJO BASTOS (PF)"/>
+</attvalues>
+</node>
+<node id="51" label="51">
+<viz:size value="4"></viz:size>
+<viz:position x="353.91999999999996" y="-172.1014"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="JOAO BATISTA DA SILVA (PF)"/>
+</attvalues>
+</node>
+<node id="52" label="52">
+<viz:size value="4"></viz:size>
+<viz:position x="-505.98400000000004" y="-137.73929999999996"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="JOAO MEDEIROS DE OLIVEIRA (PF)"/>
+</attvalues>
+</node>
+<node id="53" label="53">
+<viz:size value="4"></viz:size>
+<viz:position x="330.8799999999999" y="-46.0838"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="JOAQUIM ALVARENGA DA SILVA (PF)"/>
+</attvalues>
+</node>
+<node id="54" label="54">
+<viz:size value="4"></viz:size>
+<viz:position x="228.48000000000002" y="48.011199999999974"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="JOSE ANTONIO DE OLIVEIRA (PF)"/>
+</attvalues>
+</node>
+<node id="55" label="55">
+<viz:size value="4"></viz:size>
+<viz:position x="-472.448" y="173.33180000000002"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="JOSE ANTONIO MARTINS (PF)"/>
+</attvalues>
+</node>
+<node id="56" label="56">
+<viz:size value="4"></viz:size>
+<viz:position x="123.904" y="-314.15"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="JOSE DE FANCA FILHO (PF)"/>
+</attvalues>
+</node>
+<node id="57" label="57">
+<viz:size value="4"></viz:size>
+<viz:position x="-230.144" y="-44.829200000000014"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="JOSE OSCAR CARNEIRO FILHO (PF)"/>
+</attvalues>
+</node>
+<node id="58" label="58">
+<viz:size value="4"></viz:size>
+<viz:position x="192.0" y="130.11780000000002"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="JOSE SANTANA SOARES (PF)"/>
+</attvalues>
+</node>
+<node id="59" label="59">
+<viz:size value="4"></viz:size>
+<viz:position x="263.424" y="-25.940499999999986"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="JUCELI XAVIER DA COSTA SILVA (PF)"/>
+</attvalues>
+</node>
+<node id="60" label="60">
+<viz:size value="4"></viz:size>
+<viz:position x="95.48800000000006" y="10.930800000000033"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="KARIA SIMONE VIEIRA (PF)"/>
+</attvalues>
+</node>
+<node id="61" label="61">
+<viz:size value="4"></viz:size>
+<viz:position x="-470.784" y="-163.31920000000002"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="LAZARO GONCALVES BORBA (PF)"/>
+</attvalues>
+</node>
+<node id="62" label="62">
+<viz:size value="4"></viz:size>
+<viz:position x="119.16799999999989" y="-157.60380000000004"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="LINDEMBERG DE SOUZA FONSECA (PF)"/>
+</attvalues>
+</node>
+<node id="63" label="63">
+<viz:size value="4"></viz:size>
+<viz:position x="-366.464" y="251.8837"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="LUCIANO ALVES MACEDO (PF)"/>
+</attvalues>
+</node>
+<node id="64" label="64">
+<viz:size value="4"></viz:size>
+<viz:position x="-224.89600000000002" y="14.764299999999992"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="LUIZ ALBERTO DE MOURA (PF)"/>
+</attvalues>
+</node>
+<node id="65" label="65">
+<viz:size value="4"></viz:size>
+<viz:position x="-422.528" y="116.7354"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="LUIZ ALBERTO TRAJANO DE SOUZA (PF)"/>
+</attvalues>
+</node>
+<node id="66" label="66">
+<viz:size value="4"></viz:size>
+<viz:position x="147.84000000000003" y="180.72"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="LUIZ MARTINS BELISARIO (PF)"/>
+</attvalues>
+</node>
+<node id="67" label="67">
+<viz:size value="4"></viz:size>
+<viz:position x="-553.6" y="142.2456"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="LUZIA CORREA DIAS BORGES (PF)"/>
+</attvalues>
+</node>
+<node id="68" label="68">
+<viz:size value="4"></viz:size>
+<viz:position x="-487.93600000000004" y="-85.11579999999998"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="MARCIO ROBERTO FLORES (PF)"/>
+</attvalues>
+</node>
+<node id="69" label="69">
+<viz:size value="4"></viz:size>
+<viz:position x="-196.608" y="126.2843"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="MARIA APARECIDA DA SILVA (PF)"/>
+</attvalues>
+</node>
+<node id="70" label="70">
+<viz:size value="4"></viz:size>
+<viz:position x="309.76" y="41.0412"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="MARIA DO CARMO OLIVEIRA DE AZEVEDO (PF)"/>
+</attvalues>
+</node>
+<node id="71" label="71">
+<viz:size value="4"></viz:size>
+<viz:position x="49.27999999999997" y="-196.98430000000008"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="MARIA DO ROSARIO DE FATIMA NAVES (PF)"/>
+</attvalues>
+</node>
+<node id="72" label="72">
+<viz:size value="4"></viz:size>
+<viz:position x="-235.64799999999997" y="274.1877"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="MARIA GERMANO AMARAL (PF)"/>
+</attvalues>
+</node>
+<node id="73" label="73">
+<viz:size value="4"></viz:size>
+<viz:position x="-567.04" y="95.8254"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="MARIA RODRIGUES SILVA (PF)"/>
+</attvalues>
+</node>
+<node id="74" label="74">
+<viz:size value="4"></viz:size>
+<viz:position x="-262.27200000000005" y="84.39460000000003"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="MARIA VALQUIRIA DA SILVA (PF)"/>
+</attvalues>
+</node>
+<node id="75" label="75">
+<viz:size value="4"></viz:size>
+<viz:position x="-320.0" y="300.0464"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="MARLENE GONCALVES REGO (PF)"/>
+</attvalues>
+</node>
+<node id="76" label="76">
+<viz:size value="4"></viz:size>
+<viz:position x="-368.25600000000003" y="300.7434"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="MARLUCIO FERREIRA SANTIAGO (PF)"/>
+</attvalues>
+</node>
+<node id="77" label="77">
+<viz:size value="4"></viz:size>
+<viz:position x="156.288" y="53.308400000000006"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="MAURICIO LUDOVICO DE ALMEIDA (PF)"/>
+</attvalues>
+</node>
+<node id="78" label="78">
+<viz:size value="4"></viz:size>
+<viz:position x="189.44000000000005" y="-170.98620000000005"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="MIQUELINA PEREIRA (PF)"/>
+</attvalues>
+</node>
+<node id="79" label="79">
+<viz:size value="4"></viz:size>
+<viz:position x="-454.4" y="47.244500000000016"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="NATAL PAULO ALVES (PF)"/>
+</attvalues>
+</node>
+<node id="80" label="80">
+<viz:size value="4"></viz:size>
+<viz:position x="278.01599999999996" y="170.8923"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="NOVA CIDADE PUBLICIDADE EVENTOS E JORNALISMO LTDA (PJ03335038)"/>
+</attvalues>
+</node>
+<node id="81" label="81">
+<viz:size value="4"></viz:size>
+<viz:position x="-576.0" y="45.92020000000002"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="OSIEL DE FARIA (PF)"/>
+</attvalues>
+</node>
+<node id="82" label="82">
+<viz:size value="4"></viz:size>
+<viz:position x="-309.37600000000003" y="231.8798"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="PAULO GOMES DE SOUZA (PF)"/>
+</attvalues>
+</node>
+<node id="83" label="83">
+<viz:size value="4"></viz:size>
+<viz:position x="-557.8240000000001" y="-51.799199999999985"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="PAULO JOSE BENTO DE ALMEIDA (PF)"/>
+</attvalues>
+</node>
+<node id="84" label="84">
+<viz:size value="4"></viz:size>
+<viz:position x="321.664" y="-124.98419999999999"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="PEDRO ALVES DE SOUSA (PF)"/>
+</attvalues>
+</node>
+<node id="85" label="85">
+<viz:size value="4"></viz:size>
+<viz:position x="-85.37599999999998" y="-4.751699999999971"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="POSTO FRANCO LTDA (PJ02359966)"/>
+</attvalues>
+</node>
+<node id="86" label="86">
+<viz:size value="4"></viz:size>
+<viz:position x="-243.58400000000006" y="-99.05579999999998"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="PRISCILLA DUTRA ALVES BORGES (PF)"/>
+</attvalues>
+</node>
+<node id="87" label="87">
+<viz:size value="4"></viz:size>
+<viz:position x="-363.64799999999997" y="-55.841800000000035"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="ROMES GOMES E. SILVA (PF)"/>
+</attvalues>
+</node>
+<node id="88" label="88">
+<viz:size value="4"></viz:size>
+<viz:position x="187.51999999999998" y="-310.38620000000003"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="RONEI SANTOS DA SILVA (PF)"/>
+</attvalues>
+</node>
+<node id="89" label="89">
+<viz:size value="4"></viz:size>
+<viz:position x="190.84799999999996" y="197.9359"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="SALVADOR LUDOVICO DE ALMEIDA NETO (PJ16275229)"/>
+</attvalues>
+</node>
+<node id="90" label="90">
+<viz:size value="4"></viz:size>
+<viz:position x="250.87999999999988" y="-113.90189999999996"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="SILAS FERNANDES MARINHO (PF)"/>
+</attvalues>
+</node>
+<node id="91" label="91">
+<viz:size value="4"></viz:size>
+<viz:position x="-266.496" y="-145.96390000000002"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="VALDECI SALVIANO MENDONCA (PJ16239080)"/>
+</attvalues>
+</node>
+<node id="92" label="92">
+<viz:size value="4"></viz:size>
+<viz:position x="235.00800000000004" y="188.9446"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="VAL EDITORA PUBLICIDADE E JORNALISMO LTDA. (PJ04268311)"/>
+</attvalues>
+</node>
+<node id="93" label="93">
+<viz:size value="4"></viz:size>
+<viz:position x="49.27999999999997" y="-254.3474"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="WANDERSON CANDIDO RIOS (PF)"/>
+</attvalues>
+</node>
+<node id="94" label="94">
+<viz:size value="4"></viz:size>
+<viz:position x="62.976" y="-133.06940000000003"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="WELVITON GONCALVES GUIMARAES (PF)"/>
+</attvalues>
+</node>
+<node id="95" label="95">
+<viz:size value="4"></viz:size>
+<viz:position x="79.10399999999993" y="-66.29680000000002"></viz:position>
+<viz:color r="0" g="255" b="0"></viz:color>
+<attvalues>
+<attvalue for="nome" value="YSNAY SILVA SANTOS (PJ11500609)"/>
+</attvalues>
+</node>
+</nodes>
+<edges>
+<edge id="1" source="2" target="4" weight="300"/>
+<edge id="2" source="3" target="5" weight="600"/>
+<edge id="3" source="3" target="6" weight="1300"/>
+<edge id="4" source="3" target="7" weight="1300"/>
+<edge id="5" source="3" target="8" weight="1300"/>
+<edge id="6" source="3" target="9" weight="1300"/>
+<edge id="7" source="3" target="10" weight="1300"/>
+<edge id="8" source="3" target="11" weight="1300"/>
+<edge id="9" source="2" target="12" weight="124"/>
+<edge id="10" source="2" target="13" weight="124"/>
+<edge id="11" source="2" target="14" weight="700"/>
+<edge id="12" source="2" target="15" weight="5000"/>
+<edge id="13" source="2" target="16" weight="5000"/>
+<edge id="14" source="3" target="17" weight="1300"/>
+<edge id="15" source="2" target="18" weight="124"/>
+<edge id="16" source="3" target="19" weight="600"/>
+<edge id="17" source="1" target="20" weight="62813"/>
+<edge id="18" source="3" target="21" weight="1300"/>
+<edge id="19" source="2" target="22" weight="124"/>
+<edge id="20" source="3" target="23" weight="600"/>
+<edge id="21" source="3" target="24" weight="783"/>
+<edge id="22" source="3" target="25" weight="1300"/>
+<edge id="23" source="2" target="26" weight="124"/>
+<edge id="24" source="3" target="27" weight="6323"/>
+<edge id="25" source="3" target="28" weight="1300"/>
+<edge id="26" source="3" target="29" weight="1300"/>
+<edge id="27" source="3" target="30" weight="1300"/>
+<edge id="28" source="2" target="31" weight="124"/>
+<edge id="29" source="3" target="32" weight="1300"/>
+<edge id="30" source="3" target="33" weight="1300"/>
+<edge id="31" source="3" target="34" weight="1300"/>
+<edge id="32" source="2" target="35" weight="124"/>
+<edge id="33" source="2" target="36" weight="124"/>
+<edge id="34" source="2" target="37" weight="300"/>
+<edge id="35" source="2" target="38" weight="400"/>
+<edge id="36" source="3" target="39" weight="1300"/>
+<edge id="37" source="3" target="40" weight="1300"/>
+<edge id="38" source="2" target="41" weight="124"/>
+<edge id="39" source="3" target="42" weight="1300"/>
+<edge id="40" source="3" target="43" weight="6327"/>
+<edge id="41" source="3" target="44" weight="3250"/>
+<edge id="42" source="2" target="45" weight="600"/>
+<edge id="43" source="3" target="46" weight="5000"/>
+<edge id="44" source="2" target="47" weight="100"/>
+<edge id="45" source="3" target="48" weight="1300"/>
+<edge id="46" source="1" target="49" weight="4000"/>
+<edge id="47" source="3" target="50" weight="1300"/>
+<edge id="48" source="2" target="51" weight="5000"/>
+<edge id="49" source="3" target="52" weight="1300"/>
+<edge id="50" source="2" target="53" weight="124"/>
+<edge id="51" source="2" target="54" weight="1000"/>
+<edge id="52" source="3" target="55" weight="1300"/>
+<edge id="53" source="2" target="56" weight="124"/>
+<edge id="54" source="3" target="57" weight="1300"/>
+<edge id="55" source="2" target="58" weight="300"/>
+<edge id="56" source="2" target="59" weight="300"/>
+<edge id="57" source="2" target="60" weight="124"/>
+<edge id="58" source="3" target="61" weight="1300"/>
+<edge id="59" source="2" target="62" weight="124"/>
+<edge id="60" source="3" target="63" weight="1300"/>
+<edge id="61" source="3" target="64" weight="1300"/>
+<edge id="62" source="3" target="65" weight="1300"/>
+<edge id="63" source="2" target="66" weight="124"/>
+<edge id="64" source="3" target="67" weight="1300"/>
+<edge id="65" source="3" target="68" weight="2500"/>
+<edge id="66" source="3" target="69" weight="1300"/>
+<edge id="67" source="2" target="70" weight="124"/>
+<edge id="68" source="2" target="71" weight="5000"/>
+<edge id="69" source="3" target="72" weight="1300"/>
+<edge id="70" source="3" target="73" weight="1300"/>
+<edge id="71" source="3" target="74" weight="1300"/>
+<edge id="72" source="3" target="75" weight="1300"/>
+<edge id="73" source="3" target="76" weight="1300"/>
+<edge id="74" source="2" target="77" weight="5000"/>
+<edge id="75" source="2" target="78" weight="124"/>
+<edge id="76" source="3" target="79" weight="600"/>
+<edge id="77" source="2" target="80" weight="791"/>
+<edge id="78" source="3" target="81" weight="1300"/>
+<edge id="79" source="3" target="82" weight="1300"/>
+<edge id="80" source="3" target="83" weight="1300"/>
+<edge id="81" source="2" target="84" weight="300"/>
+<edge id="82" source="2" target="85" weight="875"/>
+<edge id="83" source="3" target="85" weight="5621"/>
+<edge id="84" source="3" target="86" weight="1300"/>
+<edge id="85" source="3" target="87" weight="1300"/>
+<edge id="86" source="2" target="88" weight="124"/>
+<edge id="87" source="2" target="89" weight="18027"/>
+<edge id="88" source="2" target="90" weight="2000"/>
+<edge id="89" source="3" target="91" weight="118043"/>
+<edge id="90" source="2" target="92" weight="3000"/>
+<edge id="91" source="2" target="93" weight="124"/>
+<edge id="92" source="2" target="94" weight="1300"/>
+<edge id="93" source="2" target="95" weight="3900"/>
+</edges>
+</graph>
+</gexf>
