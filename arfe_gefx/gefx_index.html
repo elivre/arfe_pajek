@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Atlas de Redes de Financiamento Eleitoral (GETE)</title>
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" type="text/css" href="styles/arfejs.css" />
+        <link rel="stylesheet" type="text/css" href="styles/jquery-ui-1.10.3.custom.min.css" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+<script>
+
+
+$(document).ready(function(){
+    $("#cod_estados").change(function(){
+        $("#texto").load("xml/e2012_ue.xml");
+    });
+});
+</script>
+        
+    </head>
+    <body>
+    <a href="arfe.html#e2012-ABADIA_DE_GOIAS-PREFEITO.gefx">e2012-ABADIA_DE_GOIAS-PREFEITO </a>
+<label for="cod_estados">Estado:</label>
+<select name="cod_estados" id="cod_estados">
+	<option value=""></option>
+  <option value="PR">PR</option>;
+</option></select>
+
+    
+<label for="sigla_uf">UF:</label>
+<select name="sigla_uf" id="sigla_uf">
+	<option value="">-- Escolha um Estado --</option>
+</select>
+    
+<div id="texto"><h2>Let jQuery AJAX Change This Text</h2></div>
+
+    
+    </body>
+  </html>
